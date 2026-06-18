@@ -44,9 +44,6 @@ en el archivo `main.tex`.
 ### `Notas_completo.zip`
 
 Versión alternativa en la que todo el contenido del documento se encuentra reunido en un único archivo fuente.
-
-Esta versión se incluye principalmente como referencia y respaldo del documento completo.
-
 ## Licencia
 
 Este material se distribuye bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
