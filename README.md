@@ -6,7 +6,7 @@ Notas de cálculo diferencial en una variable escritas en LaTeX.
 
 Las notas completas se encuentran en el archivo:
 
-- 'Notas_de_cálculo_diferencial.pdf'
+- `Notas_de_cálculo_diferencial.pdf`
 
 ## Código fuente
 
