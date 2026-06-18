@@ -1,4 +1,4 @@
-# Calculo diferencial en una variable
+# Calculo diferencial
 
 Notas de cálculo diferencial en una variable escritas en LaTeX.
 
