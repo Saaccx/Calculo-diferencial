@@ -12,7 +12,8 @@ Las notas completas se encuentran en el archivo:
 
 El repositorio incluye dos versiones del código fuente.
 
-### 'Notas_partes_overleaf.zip'
+### `Notas_partes_overleaf.zip`
+
 
 Versión principal del proyecto utilizada durante la elaboración de las notas.
 
