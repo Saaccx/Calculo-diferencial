@@ -1,6 +1,6 @@
 # Calculo diferencial
 
-Notas de cálculo diferencial en una variable escritas en LaTeX.
+Notas de cálculo diferencial en una variable. 
 
 # PDF
 
@@ -14,10 +14,9 @@ El repositorio incluye dos versiones del código fuente.
 
 ### `Notas_partes_overleaf.zip`
 
-
 Versión principal del proyecto utilizada durante la elaboración de las notas.
 
-El contenido se encuentra dividido en múltiples archivos para facilitar la compilación en Overleaf, especialmente debido a la gran cantidad de figuras TikZ presentes en el documento.
+El contenido se encuentra dividido en múltiples archivos para facilitar la compilación en Overleaf, debido a la gran cantidad de figuras TikZ presentes en el documento.
 
 El archivo principal es:
 
@@ -25,15 +24,15 @@ El archivo principal es:
 main.tex
 ```
 
-Para compilar únicamente un capítulo puede modificarse la instrucción
+Para compilar un capítulo modifique la instrucción
 
 ```latex
 \includeonly{nombre}
 ```
 
-indicando el archivo correspondiente.
+indicando el nombre del capítulo correspondiente.
 
-Para agregar un nuevo capítulo al documento puede utilizarse la instrucción
+Para agregar un nuevo capítulo al documento utilice la instrucción
 
 ```latex
 \include{nombre}
