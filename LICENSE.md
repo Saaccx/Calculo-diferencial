@@ -1,6 +1,6 @@
 Cálculo Diferencial en una variable.
 
-@ 2026 Isaac Castillo Juan.
+@2026 Isaac Castillo Juan.
 
 Esta obra está licenciada bajo la licencia
 
